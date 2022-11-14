@@ -1,6 +1,8 @@
 # finance_app
 
-A new Flutter project.
+'
+<img src = " assets/homescreen.jpg" width = "320" height = "600" >
+<img src = " assets/infoscreen.jpg" width = "320" height = "600" >
 
 ## Getting Started
 
